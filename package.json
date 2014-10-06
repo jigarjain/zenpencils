@@ -1,0 +1,27 @@
+{
+  "name": "zenpencils",
+  "version": "1.0.0",
+  "description": "Mini scraper for zenpencils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jigarjain/zenpencils.git"
+  },
+  "keywords": [
+    "zenpencils"
+  ],
+  "author": "Jigar Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jigarjain/zenpencils/issues"
+  },
+  "homepage": "https://github.com/jigarjain/zenpencils",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "co": "^3.1.0",
+    "request": "^2.45.0"
+  }
+}
